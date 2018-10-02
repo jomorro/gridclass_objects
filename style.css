@@ -1,0 +1,14 @@
+.cell {
+    border: 1px solid black;
+    display: flex;
+    flex-flow: wrap;
+}
+
+.row {
+    display: flex;
+    flex-flow: row;
+}
+
+#gridContainter {
+    margin-left: 400px;
+}
